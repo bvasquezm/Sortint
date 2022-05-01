@@ -1,2 +1,2 @@
 # Sortint
-Random sorting algorithms for fun!
+Random sorting algorithms for fun
