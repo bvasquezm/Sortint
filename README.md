@@ -1,5 +1,5 @@
 # Sortin't
-Random sorting algorithms for fun
+Anything but sorting, just for fun.
 
 ## Current Sorting Algorithms
 
