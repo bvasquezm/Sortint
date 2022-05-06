@@ -1,4 +1,4 @@
-# Sortint
+# Sortin't
 Random sorting algorithms for fun
 
 ## Current Sorting Algorithms
