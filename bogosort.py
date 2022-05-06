@@ -1,4 +1,3 @@
-from cmath import exp
 import random
 
 def bogo_sort(array):
